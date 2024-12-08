@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf39afe-3046-4c4c-af04-14e96236b0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dateien_und_Datenstroeme.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datei1702_vor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaerDatenManipulieren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ByteStrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterAusgabeStrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterEingabeStrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleBinaerSpeichern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EinfacheEingabe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HtmlConv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjektAusgabeStrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjektEingabeStrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextInDateiSchreiben.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pic/AbbWurfparabel.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="daf39afe-3046-4c4c-af04-14e96236b0e4" name="Changes" comment="Dateien_und_Datenstroeme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -131,6 +107,18 @@
       <option name="presentableId" value="Default" />
       <updated>1733436060781</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dateien_und_Datenstroeme">
+      <created>1733667163752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733667163752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dateien_und_Datenstroeme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dateien_und_Datenstroeme" />
   </component>
 </project>
