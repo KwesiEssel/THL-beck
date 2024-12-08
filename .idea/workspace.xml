@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daf39afe-3046-4c4c-af04-14e96236b0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dateien_und_Datenstroeme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datei1702_vor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaerDatenManipulieren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteStrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterAusgabeStrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterEingabeStrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoubleBinaerSpeichern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EinfacheEingabe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HtmlConv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjektAusgabeStrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjektEingabeStrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextInDateiSchreiben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pic/AbbWurfparabel.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/datei1702_vor.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/BinaerDatenManipulieren.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2pocqOOaGe1ZrwgluuLY5d8HW9H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dadzi/IdeaProjects/Dateien_und_Datenstroeme/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dadzi\IdeaProjects\Dateien_und_Datenstroeme\src" />
+      <recent name="C:\Users\dadzi\IdeaProjects\Dateien_und_Datenstroeme\src\pic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dadzi\IdeaProjects\Dateien_und_Datenstroeme" />
+      <recent name="C:\Users\dadzi\IdeaProjects\Dateien_und_Datenstroeme\src" />
+      <recent name="C:\Users\dadzi\IdeaProjects\Dateien_und_Datenstroeme\src\pic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HtmlConv">
+    <configuration name="CharacterAusgabeStrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterAusgabeStrom" />
+      <module name="Dateien_und_Datenstroeme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HtmlConv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HtmlConv" />
+      <module name="Dateien_und_Datenstroeme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjektEingabeStrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjektEingabeStrom" />
+      <module name="Dateien_und_Datenstroeme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDirectory" />
+      <module name="Dateien_und_Datenstroeme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextInDateiSchreiben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextInDateiSchreiben" />
+      <module name="Dateien_und_Datenstroeme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HtmlConv" />
+        <item itemvalue="Application.TextInDateiSchreiben" />
+        <item itemvalue="Application.ObjektEingabeStrom" />
+        <item itemvalue="Application.CharacterAusgabeStrom" />
+        <item itemvalue="Application.TestDirectory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daf39afe-3046-4c4c-af04-14e96236b0e4" name="Changes" comment="" />
+      <created>1733436060781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733436060781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
